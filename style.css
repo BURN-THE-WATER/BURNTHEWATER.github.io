@@ -1,0 +1,28 @@
+/* https://coolors.co/palette/e7ecef-274c77-6096ba-a3cef1-8b8c89 */
+
+h1 {
+    color: darkcyan;
+    /* border-style: dashed; */
+    text-align: center;
+    background-color: #A3CEF1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 200px;
+}
+
+body {
+    background-color: #E7ECEF;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+p {
+    color: #274C77;
+}
+
+li {
+    padding-bottom: 5px;
+    color: navy;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
